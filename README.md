@@ -198,20 +198,7 @@ Server runs at `http://localhost:8000`
 
 ---
 
-## 🧪 Testing
 
-Run test scripts for each endpoint:
-
-```bash
-# Test CRM extraction
-python test_crm.py
-
-# Test task prioritization
-python test_tasks.py
-
-# Test Q&A
-python test_qa.py
-```
 
 ---
 

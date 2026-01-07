@@ -1,0 +1,18 @@
+URGENT - ACME CORP CALL - 1/4/26
+
+Sarah Chen, VP Operations
+- Needs quote by FRIDAY (1/10) - hard deadline
+- 50 enterprise licenses, possibly 75 if exec team signs off
+- Budget: ~$45K (we're normally $52K for 50 seats)
+- COMPETITOR: They're talking to CompetitorX who quoted $42K
+- Main pain point: current tool = 3hrs/day wasted on manual work
+- Salesforce integration is CRITICAL - deal breaker if we can't do it
+- Their contract w/ current vendor expires March 15
+
+Next steps:
+[] Get 15% discount approved by VP Sales (need by Wed)
+[] Send detailed SF integration specs by Thursday AM  
+[] Draft quote with discount by Thursday
+[] Schedule final review call Friday 2pm
+
+PRIORITY: HIGHEST - competitive deal, tight timeline

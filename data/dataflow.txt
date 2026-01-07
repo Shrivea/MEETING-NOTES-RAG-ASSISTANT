@@ -1,0 +1,28 @@
+dataflow systems - marcus johnson
+
+CALL WENT GREAT!!!
+
+marcus = CTO, 75 seats needed for eng + ops teams
+theyre BLEEDING time right now - team wastes 4 hours/day (!!) on 
+data entry & manual processes
+
+timeline is TIGHT - he wants to onboard by end of month
+budget approved already - $60k range
+mentioned theyre also talking to our competitor (didnt say who)
+
+Technical requirements:
+- API integrations w/ their internal tools
+- SSO (they use Okta)
+- custom reporting dashboards
+- needs to handle 10k+ records/day
+
+he asked: "can you do a technical proof-of-concept this week?"
+
+TODO asap:
+- schedule technical deep-dive w/ their eng team (this week!)
+- send enterprise feature comparison doc
+- get solutions architect on next call
+- pricing proposal by tuesday
+
+This is a HOT lead - marcus has authority to sign, budget ready, 
+pain is urgent. DONT LOSE THIS ONE.

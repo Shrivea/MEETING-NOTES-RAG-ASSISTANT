@@ -1,0 +1,25 @@
+Follow-up w/ TechStart - Mike Patterson
+
+Good call today! They're ready to expand from 20 seats to 100 
+next quarter. Been using us for 8 months, really happy with the 
+product - Mike said "best decision we made last year."
+
+Key points:
+- Finance approval needed for anything over $50K
+- Mike will intro me to CFO Linda Chen next week
+- Current pricing: $30/seat, asked if we can do $25/seat for 100
+- Want rollout complete by Feb 15 (new hires starting)
+- Also interested in API access (didn't know we had it!)
+
+Their timeline:
+- Decision by Jan 25
+- Implementation in Feb
+- Full rollout mid-Feb
+
+TODO:
+[] Send expansion proposal with bulk pricing
+[] Calculate ROI doc showing their savings so far
+[] Schedule 3-way call w/ Mike + Linda (next Tues/Wed)
+[] Send API documentation
+
+Deal feels solid - Mike is our champion there.
